@@ -4,7 +4,7 @@
 
 ## how to install
 ```
-go get -u github.com/umaumax/gollvmif
+go get -u github.com/umaumax/gollvmir
 ```
 
 ## how to use
